@@ -38,8 +38,7 @@ totals because it would have inflated revenue by about 40%.
    Bags falls from ~62k to ~18k and Home & Kitchen (~32k) moves ahead of it. Order value
    placed is not the same as revenue collected.
 5. *Monthly revenue is volatile.* August peaks at ~61k, March is the low at ~12k, and
-   Apr-Jun are steady at ~33-35k. [Add what the August check showed, e.g. a few large
-   orders drove the spike.] September is a partial month (data ends Sep 25), so its drop
+   Apr-Jun are steady at ~33-35k.September is a partial month (data ends Sep 25), so its drop
    is not a real decline.
 
 ## Limitations
